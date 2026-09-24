@@ -1,0 +1,89 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Iosevka+Charon:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Momo+Signature&family=Playwrite+BE+WAL+Guides&family=Playwrite+GB+J:ital,wght@0,100..400;1,100..400&family=Playwrite+IN+Guides&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Squada+One&display=swap');
+html{
+    background-image: url(https://i.pinimg.com/736x/80/26/41/8026413e26d404b0203ef75417d24439.jpg);
+    
+}
+h1{
+   font-family: "Playwrite GB J", cursive;
+   font-size: 27px;
+   position: absolute;
+   padding: center;
+   padding-top: 2px;
+   padding-left: 177px;
+}
+p{
+    font-family: "Edu SA Beginner", cursive;
+    padding-top: 49px;
+    padding-left: 20px;
+}
+.form {
+   padding: center;
+   padding-top: 3px;
+   padding-left: 145px;
+}
+body{
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+}
+.form input[type="number"]{
+    width: 200px;
+    background-color: #B7C48A;
+    border: 2px solid #FFE9CC;
+}
+.guessSubmit{
+    background-color: #B7C48A;
+    border-radius: 6px;
+    border: 2px solid #FFE9CC;
+}  
+.outer-frame{
+    width: 765px;
+    height: 410px;
+    background-color: #F7A1B3;
+    border: 15px solid #FFE9CC;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 60px;
+    margin-left: -5%;
+}
+.inner-frame{
+    width: 665px;
+    height: 320px;
+    background-color: #D56B7A;
+    border: 10px solid #FFE9CC;
+    border-radius: 30px;
+    margin: 30px;
+    padding: 10px;
+    left: 20%;
+}
+.guesses{
+    padding: revert;
+    background-color: #A8C9A0;
+    color: white;
+    border-radius: 3px;
+    letter-spacing: 1px;
+}
+.LastResult{
+    padding: revert;
+    background-color: #8E9546;
+    color: white;
+    border-radius: 3px;
+    letter-spacing: 1px;
+}
+.LowOrHi{
+    padding: revert;
+    background-color: #A8C9A0;
+    color: white;
+    border-radius: 3px;
+    letter-spacing: 1px;
+}
+button {
+    position: absolute;
+    top: 379px;
+    left: 395px;
+    border-radius: 6px;
+    background-color: #B7C48A;
+    border: 2px solid white;
+}
