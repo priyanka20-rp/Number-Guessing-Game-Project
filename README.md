@@ -28,3 +28,5 @@
   3.Display control allowing the player to restart the game.
   
 9.Once the game restart , make sure the game logic and UI are completely reset, then go back to step 1.
+
+ Strawberry & Matcha Theme ˙ ✩°˖🍵 ⋆｡˚꩜
