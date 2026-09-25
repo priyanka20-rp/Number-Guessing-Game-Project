@@ -30,3 +30,4 @@
 9.Once the game restart , make sure the game logic and UI are completely reset, then go back to step 1.
 
  Strawberry & Matcha Theme ˙ ✩°˖🍵 ⋆｡˚꩜
+ if start new game button at not a right place get zoom your screen.
